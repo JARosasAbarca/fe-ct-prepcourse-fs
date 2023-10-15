@@ -79,7 +79,7 @@ En este ejercicio debes ingresar dentro del repositorio y crear una nueva carpet
 
 </br >
 
-### **📍 EJERCICIO 03**
+### **📍 EJERCICIO 03**d
 
 Ingresa a la carpeta que acabas de crear utilizando los comandos ya aprendidos.
 
