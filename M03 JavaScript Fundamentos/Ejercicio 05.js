@@ -85,11 +85,12 @@ function esVocal(letra) {
          return "Es vocal";
        } else {
          return "Dato incorrecto";
-       }     }    
+       }   
+        }    
   
   console.log(esVocal("a"));  
 console.log(esVocal("b"));  
-console.log(esVocal("ae"));  
+console.log(esVocal("ai"));  
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
